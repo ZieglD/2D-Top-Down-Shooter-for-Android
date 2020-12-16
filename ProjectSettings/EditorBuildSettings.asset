@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/StartMenu.unity
+    guid: 380ebb3562d4dc34c9dde11a2e3cae72
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 24806570bb36d304db9549e29a7523da
+  - enabled: 1
+    path: Assets/Scenes/AboutMenu.unity
+    guid: d0c757261ab3bcf4280b8470336321a2
+  - enabled: 1
+    path: Assets/Scenes/DungeonRooms/BasementMain.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/DungeonRooms/BasementStart.unity
+    guid: 8273e90702b409449b23a8c51bc2c2a7
+  - enabled: 1
+    path: Assets/Scenes/DungeonRooms/BasementEmpty.unity
+    guid: 217e15594a4c65c4ea708b57af9b7a81
+  - enabled: 1
+    path: Assets/Scenes/DungeonRooms/Basement1.unity
+    guid: ad7a8929b6fe6464e8ee0d6a8a4b8f18
+  - enabled: 1
+    path: Assets/Scenes/DungeonRooms/BasementEnd.unity
+    guid: a4b99e83d1231ec43917bc8872321582
+  - enabled: 1
+    path: Assets/Scenes/GameOverMenu.unity
+    guid: 81d5feb7f826da04d8165ff4896c20cb
+  - enabled: 1
+    path: Assets/Scenes/WinMenu.unity
+    guid: 28ee3970714ca684f9a787cd67e9f341
+  m_configObjects: {}
